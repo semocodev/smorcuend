@@ -44,11 +44,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     53 mins               ████████████▒░░░░░░░░░░░░   49.52 %
-TypeScript   26 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
-Bash         11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-JSON         10 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Git Config   3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
